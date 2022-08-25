@@ -1,0 +1,12 @@
+/* body {
+    background-image: url(source/background.jpg);
+} */
+
+.mx-auto {
+    width:fit;
+}
+
+.card {
+    margin-top: 10px;
+}
+
